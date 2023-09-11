@@ -1,5 +1,5 @@
 
-def sum(answer):
+def addition():
     """Функция складывает двух чисел"""
     number_1 = int(input())
     number_2 = int(input())
@@ -7,7 +7,7 @@ def sum(answer):
     return answer
 
 
-def subtraction(answer):
+def subtraction():
     """Функция вычитания двух чисел"""
     number_1 = int(input())
     number_2 = int(input())
